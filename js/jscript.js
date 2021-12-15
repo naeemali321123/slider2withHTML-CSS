@@ -5,4 +5,4 @@ setInterval(() => {
     if(counter >4){
         counter = 1;
     }  
-}, 2000);
+}, 5000);
